@@ -12,8 +12,8 @@ This repository focuses on my weekly coding practices for the following: Python,
 
 ## 📁 Repository Folder Structure
 <pre>
-📦 Daily-Coding
+📦 Weekly-Coding
 └── 📂 (year)
-    └── 📂 (month-day)
-        └── 📂 (code + readme)
+    └── 📂 (month-days)
+        └── 📂 (codes + readme)
 </pre>
