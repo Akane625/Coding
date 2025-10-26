@@ -1,6 +1,6 @@
 # 🧭 Overview
 
-This repository focuses on my daily coding practices for the following: Python, Kotlin, MySQL, Python (Pandas/NumPy/Matplotlib)
+This repository focuses on my weekly coding practices for the following: Python, Kotlin, MySQL, Python (Pandas/NumPy/Matplotlib)
 
 ## 📚 Table of Contents
 | No. | Langauge | Skill Level |
