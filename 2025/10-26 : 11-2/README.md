@@ -10,7 +10,7 @@ Prompts today are from ChatGPT with the prompt "can you create prompts for the f
 | ❌ | Not Completed | Not able to create a code within the deadline |
 
 ## Python
-**Easy:** 🟡
+**Easy:** 🚧
 - Write a program that takes a list of numbers from the user and returns a new list containing only the prime numbers.
 
 **Intermediate:** ❌
