@@ -10,7 +10,7 @@ Prompts today are from ChatGPT with the prompt "can you create prompts for the f
 - Create a class BankAccount with methods to deposit, withdraw, and check balance. Then, create a subclass SavingsAccount that applies monthly interest. Demonstrate its use.
 
 
-## Kotlin
+## Kotlin 🟢
 **Easy:**
 - Write a Kotlin program that reads a list of numbers from the user and prints the largest and smallest numbers using functions.
 
