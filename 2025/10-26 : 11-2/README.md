@@ -1,6 +1,13 @@
 # October 26, 2025 to November 2, 2025
 
-Prompts today are from ChatGPT with the prompt "can you create prompts for the following languages and difficulty - Python (Easy and Intermediate) - Kotlin (Easy) - MySQL (Easy) - Pandas+NumPy+Matplotlib (Easy and Intermediate)" and "limit it to 1 prompt per difficulty but make that 1 prompt meaningful." 🟢 means accomplished, 🟡 means partial completion (AI aided versions or not good code), ❌ means not accomplised.
+Prompts today are from ChatGPT with the prompt "can you create prompts for the following languages and difficulty - Python (Easy and Intermediate) - Kotlin (Easy) - MySQL (Easy) - Pandas+NumPy+Matplotlib (Easy and Intermediate)" and "limit it to 1 prompt per difficulty but make that 1 prompt meaningful."
+
+## Legend
+| Symbol | Meaning | Comment |
+|--------|---------|---------|
+| ✅ | Accomplished | Able to create a good code by myself |
+| 🚧 | Partially Accomplished | Able to create a decent-bad code, versions will be made to show my own (V1) and AI aided versions (V2, V3,...) for future learning |
+| ❌ | Not Completed | Not able to create a code within the deadline |
 
 ## Python
 **Easy:** 🟡
