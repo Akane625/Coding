@@ -1,3 +1,5 @@
+# Self made but inefficient; can only handle small n < 100 going beyond may lead to inaccuracies
+
 import random
 
 numbers = [random.randint(0, 100) for i in range(5)]
