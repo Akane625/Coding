@@ -1,9 +1,9 @@
 # October 26, 2025 to November 2, 2025
 
-Prompts today are from ChatGPT with the prompt "can you create prompts for the following languages and difficulty - Python (Easy and Intermediate) - Kotlin (Easy) - MySQL (Easy) - Pandas+NumPy+Matplotlib (Easy and Intermediate)" and "limit it to 1 prompt per difficulty but make that 1 prompt meaningful." 🟢 means accomplished and ❌ means not accomplised.
+Prompts today are from ChatGPT with the prompt "can you create prompts for the following languages and difficulty - Python (Easy and Intermediate) - Kotlin (Easy) - MySQL (Easy) - Pandas+NumPy+Matplotlib (Easy and Intermediate)" and "limit it to 1 prompt per difficulty but make that 1 prompt meaningful." 🟢 means accomplished, 🟡 means partial completion (AI aided versions or not good code), ❌ means not accomplised.
 
 ## Python
-**Easy:** 🟢
+**Easy:** 🟡
 - Write a program that takes a list of numbers from the user and returns a new list containing only the prime numbers.
 
 **Intermediate:** ❌
