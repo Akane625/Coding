@@ -22,7 +22,7 @@ Prompts today are from ChatGPT with the prompt "can you create prompts for the f
 - Write a Kotlin program that reads a list of numbers from the user and prints the largest and smallest numbers using functions.
 
 
-## MySQL
+## SQL
 **Easy:** ✅
 - Create a table Orders with columns order_id, customer_name, order_date, and total_amount. Then, write a query to find the total sales per customer.
 
