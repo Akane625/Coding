@@ -27,8 +27,8 @@ Prompts today are from ChatGPT with the prompt "can you create prompts for the f
 - Create a table Orders with columns order_id, customer_name, order_date, and total_amount. Then, write a query to find the total sales per customer.
 
 
-## Pandas + NumPy + Matplotlib
-**Easy:** ❌
+## Pandas + NumPy + Matplotlib or PNM
+**Easy:** ✅
 - Load a CSV file containing sales data, calculate the total sales per product using Pandas, and plot the top 5 products in a bar chart using Matplotlib.
 
 **Intermediate:** ❌
