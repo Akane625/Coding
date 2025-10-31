@@ -31,5 +31,5 @@ Prompts today are from ChatGPT with the prompt "can you create prompts for the f
 **Easy:** ✅
 - Load a CSV file containing sales data, calculate the total sales per product using Pandas, and plot the top 5 products in a bar chart using Matplotlib.
 
-**Intermediate:** ❌
+**Intermediate:** ✅
 - Given a DataFrame of daily temperatures, use NumPy to compute the 7-day moving average, and plot both the original and smoothed series using Matplotlib.
