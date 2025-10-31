@@ -7,7 +7,7 @@ This repository focuses on my weekly coding practices for the following: Python,
 |-----|----------|-------------|------------------|--------------|
 | 1 | Python | Beginner - Intermediate | School | 10/26/25 |
 | 2 | Kotlin | Beginner - Intermediate | Self-Learn | 10/31/25 |
-| 3 | MySQL | Beginner - Intermediate | School | 10/31/25 |
+| 3 | MySQL | Intermediate | School | 10/31/25 |
 | 4 | Pandas/NumPy/Matplotlib | Beginner - Intermediate | School | 10/26/25 |
 
 ## 📁 Repository Folder Structure
