@@ -13,12 +13,12 @@ Prompts today are from ChatGPT with the prompt "can you create prompts for the f
 **Easy:** 🚧
 - Write a program that takes a list of numbers from the user and returns a new list containing only the prime numbers.
 
-**Intermediate:** ❌
+**Intermediate:** ✅
 - Create a class BankAccount with methods to deposit, withdraw, and check balance. Then, create a subclass SavingsAccount that applies monthly interest. Demonstrate its use.
 
 
 ## Kotlin
-**Easy:** 🟢
+**Easy:** ✅
 - Write a Kotlin program that reads a list of numbers from the user and prints the largest and smallest numbers using functions.
 
 
