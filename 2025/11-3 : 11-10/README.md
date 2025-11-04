@@ -12,7 +12,7 @@ Prompts today are from ChatGPT with the prompt "can you generate prompts ranging
 ## 🟣 Kolin Easy Level
 1. Temperature Converter Function ✅ - Write a Kotlin program that asks for a temperature in Celsius and converts it to Fahrenheit (and vice versa).
 2. Simple Calculator ✅ - Make a console-based calculator that performs +, –, ×, ÷ depending on user input.
-3. Login Validation ❌ - Simulate a login system where a user enters a username and password. Check if they match predefined credentials and print “Login successful” or “Invalid credentials.”
+3. Login Validation ✅ - Simulate a login system where a user enters a username and password. Check if they match predefined credentials and print “Login successful” or “Invalid credentials.”
 
 ## 🟣 Kotlin Lower-Medium
 4. To-Do List Manager ❌ - Create a command-line to-do list where users can: Add tasks, View all tasks, Remove a task by index.
