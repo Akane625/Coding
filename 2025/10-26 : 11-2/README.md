@@ -6,7 +6,7 @@ Prompts today are from ChatGPT with the prompt "can you create prompts for the f
 | Symbol | Meaning | Comment |
 |--------|---------|---------|
 | ✅ | Accomplished | Able to create a good code by myself |
-| 🚧 | Partially Accomplished | Created bad code, my version (V1) while AI aided AI aided versions (V2+) for future learning |
+| 🚧 | Partially Accomplished | Created the code but can be further improved, my version (V1) while AI aided AI aided versions (V2+) for future learning |
 | ❌ | Not Completed | Not able to create a code within the deadline |
 
 ## 🐍 Python
