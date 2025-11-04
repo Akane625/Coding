@@ -16,7 +16,7 @@ Prompts today are from ChatGPT with the prompt "can you generate prompts ranging
 
 ## 🟣 Kotlin Lower-Medium
 4. To-Do List Manager ✅ - Create a command-line to-do list where users can: Add tasks, View all tasks, Remove a task by index.
-5. Contact Directory ❌ - Build a small contact manager that stores names and phone numbers using a Map. Include options to: Add a contact, Search by name, Remove a contact.
+5. Contact Directory ✅ - Build a small contact manager that stores names and phone numbers using a Map. Include options to: Add a contact, Search by name, Remove a contact.
 6. Expense Tracker (Text-based) ❌ - Let the user record expenses (name + amount) and show: Total spent, Average expense, Highest and lowest amounts.
 
 ## 🟣 Kotlin Medium
