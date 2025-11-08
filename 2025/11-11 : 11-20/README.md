@@ -37,6 +37,6 @@ These prompts were made through DeepSeek. The goal of this is to furthur practic
 8 . High-Intermediate: Sales Analytics Dashboard ❌
 - Create a SalesAnalyzer class that processes sales data with columns: date, product_category, sales_amount, region. The class should: Load data from a CSV file into a DataFrame. Have methods to: Get monthly sales trends using time series analysis, Compare sales across regions and categories, Identify top-performing products, Calculate growth rates month-over-month. Use Matplotlib to generate: Monthly sales line chart, Sales by category pie chart, Regional comparison bar chart, Implement method chaining for fluid data processing
 
-## LeetCode
+## 🧩 LeetCode
 9. [Two Sums](https://leetcode.com/problems/two-sum/description/) ❌
 - Using Python and Kotlin solve the problem
