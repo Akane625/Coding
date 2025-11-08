@@ -1,6 +1,6 @@
 # 📅 November 11, 2025 to November 20, 2025
 
-These prompts were made through DeepSeek and LeetCode
+These prompts were made through DeepSeek. The goal of this is to furthur practice OOP as by the looks of it, the basic syntax is taken care of.
 
 ## Legend
 | Symbol | Meaning | Comment |
