@@ -21,6 +21,6 @@ Prompts today are from ChatGPT with the prompt "can you generate prompts ranging
 
 ## 🟣 Kotlin Medium
 7. Bank Account Simulation ✅ - Model a simple banking system with a BankAccount class that supports: Depositing and withdrawing, Checking balance, Preventing overdraft.
-8. 8. Shopping Cart System ❌ - Build a program that allows adding items (name, price, quantity) to a cart and prints a checkout summary (subtotal, tax, total).
+8. Shopping Cart System ❌ - Build a program that allows adding items (name, price, quantity) to a cart and prints a checkout summary (subtotal, tax, total).
 9. User Registration System ❌ - Create a simple sign-up system where: Each user has a username, password, and email, Usernames must be unique, The system can display all registered users.
 10. Weather Forecast Simulation ❌ - Create a program that stores a week’s worth of fake temperature data, then: Displays the 7-day average, Finds the highest and lowest day
