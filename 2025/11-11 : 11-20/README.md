@@ -23,7 +23,7 @@ These prompts were made through DeepSeek. The goal of this is to furthur practic
 4. High-Intermediate: E-commerce System with Interfaces ❌
 - Create interfaces: Discountable with method applyDiscount(percentage: Double), Shippable with properties weight and shippingCost. Create an abstract class Product with properties name, price, and quantity. Create concrete classes: PhysicalProduct (inherits from Product, implements Shippable and Discountable), DigitalProduct (inherits from Product, implements Discountable only), Bundle (contains multiple Product objects, implements Discountable). Create a ShoppingCart class that can add products, calculate total cost (including shipping where applicable), and apply discounts to eligible items.
 
-## MySQL
+## 🗄️ MySQL
 5. Intermediate: University Database Design ❌
 - Design a database for a university with tables: students (student_id, name, enrollment_date), courses (course_id, title, credits), enrollments (enrollment_id, student_id, course_id, grade). Write queries to: Find all students enrolled in a specific course, Calculate the average grade for each course, Find students who are taking more than 3 courses, List all courses with the number of enrolled students
 
