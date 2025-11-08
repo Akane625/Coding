@@ -1,4 +1,4 @@
-# November 3, 2025 to November 10, 2025
+# November 3, 2025 to November 8, 2025
 
 Prompts today are from ChatGPT with the prompt "can you generate prompts ranging from easy to medium difficulty for kotlin (make the prompts focus on app development for android like what are useful things to know kotlin only." Additional requirement for this part will be that no crashes will be seen
 
