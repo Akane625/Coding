@@ -14,6 +14,8 @@ This repository focuses on coding practices for the following: Python, Kotlin, M
 <pre>
 📦 Coding
 ├── 📂 2025
-|   ├── 📂 1
-|   └── 📂 1
+|   ├── 📂 10-26 : 11-2
+|   ├── 📂 11-3 : 11-10
+|   ├── 📂 11-11 : 11-20
+|   └── 📂 AI Dumpster
 </pre>
