@@ -13,7 +13,7 @@ This repository focuses on coding practices for the following: Python, Kotlin, M
 ## 📁 Repository Folder Structure
 <pre>
 📦 Coding
-└── 📂 (year)
-    └── 📂 (month-days)
-        └── 📂 (codes + readme)
+├── 📂 2025
+|   ├── 📂 1
+|   └── 📂 1
 </pre>
